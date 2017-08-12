@@ -43,9 +43,10 @@ li.active a {
 .min-slider-handle, .max-slider-handle{
   background-color: #c6061e  !important;
   background-image: none;
-  width: 33px;
-  height: 33px;
+  width: 26px;
+  height: 26px;
   margin-top: -8px;
+  top: 8px;
 }
 
 .caret{
